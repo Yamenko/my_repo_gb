@@ -1,0 +1,3 @@
+my first text from git craken
+
+my second file for change
